@@ -1,0 +1,1 @@
+Hier findest du die Folien, die ich in meinen Tutorien verwende. Sie behandeln den Stoff unvollständig und sind nur eine Ergänzung zum Tutorium. Fürs lernen empfehle ich euch die Zusatzvideos sehr :)
