@@ -1,6 +1,6 @@
-Name: Yilong Wang
-Matriknummer: 0483728
-Fach: Wirtschaftsingenieurwesen
+Name: 
+Matriknummer: 
+Fach: 
 
 
 | ![](attachment/a9c7fa0b7f905648bef371755b0dc92a.png) |     |

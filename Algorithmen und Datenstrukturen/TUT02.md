@@ -134,5 +134,65 @@ Funktionen:
 ![](attachment/f992ad07118868ca23cd86e3f5a93094.png)
 ![](attachment/9ae29400a600ceb0fb49404a7cb6041b.png)
 
+```java
+abstract class Vehicle {
+    protected int numberOfWheels;
 
+    abstract void refillAir(int num);
+
+    public Vehicle(int numberOfWheels) {
+        this.numberOfWheels = numberOfWheels;
+    }
+
+    public void repair() {
+        for (int i = 0; i < numberOfWheels; i++) {
+            refillAir(i);
+        }
+    }
+}
+
+class Car extends Vehicle {
+    public Car() {
+        super(4);
+    }
+
+    @Override
+    public void refillAir(int num) {
+        System.out.print("C" + num);
+    }
+}
+
+class Bicycle extends Vehicle {
+    public Bicycle() {
+        super(2);
+    }
+
+    @Override
+    public void refillAir(int num) {
+        System.out.print("b" + num);
+    }
+}
+public class Garage {
+    public static void main(String[] args) {
+        Vehicle[] allVehicles = new Vehicle[3];
+        Vehicle[] vehicles = new Vehicle[3];
+        Car c1 = new Car();
+        allVehicles[0] = c1;
+        Bicycle b1 = new Bicycle();
+        allVehicles[1] = b1;
+        Bicycle b2 = new Bicycle();
+        allVehicles[2] = b2;
+
+        try {
+    for (int i = 0; i <= 3; i++)
+        allVehicles[i].repair();
+} catch (Exception e) {
+    System.out.println(e);
+}
+
+    }
+}
+
+
+```
 
