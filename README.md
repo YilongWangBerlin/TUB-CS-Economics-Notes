@@ -6,15 +6,17 @@ On this page, you can access some of the course notes for the subjects I've take
 
 ## Course Notes Available Here 
 On this page, you can find detailed notes for the following courses I've taken or am currently taking:
-- [[Mikro]]
-- [[Makro]]
-- [[Rechnerorganisation]]
-- [[Cognitive Algorithms]]
-- [[Anwendungssystem]]
-- [[Algorithmen und Datenstrukturen]]
-- [[Bilanzierung und Kostenrechnung]]
-- [[Analysis II]]
-- [[Signale und System]]
+- Mikro
+- Makro
+- Rechnerorganisation
+- Cognitive Algorithms
+- Anwendungssystem
+- Algorithmen und Datenstrukturen
+- Bilanzierung und Kostenrechnung
+- Analysis II
+- Signale und System
+- Diskrete Struktur
+- Formale Sprach und Automaten
 
 ## Other Courses I've Taken 
 Here's a list of additional courses that I have completed, which you might find interesting: 
@@ -26,9 +28,6 @@ Here's a list of additional courses that I have completed, which you might find 
 - Rechnerorganisation
 - Systemprogrammierung
 - Softwaretechnik und Programmierparadigmen
-- Algorithmen und Datenstrukturen
-- Diskrete Strukturen
-- Formale Sprachen und Automaten
 - Berechenbarkeit und Komplexität
 - Stochastik für Informatik(er)
 - Integraltransformationen und partielle Differentialgleichungen für Ingenieurwissenschaften
