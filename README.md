@@ -15,6 +15,12 @@ On this page, you can find detailed notes for the following courses I've taken o
 - [[Bilanzierung und Kostenrechnung]]
 - [[Analysis II]]
 - [[Signale und System]]
+- [[Stochastik für Informatik(er)]]
+- [[Integraltransformationen und partielle Differentialgleichungen für Ingenieurwissenschaften]]
+- [[Operations Research - Grundlagen (OR-GDL)]]
+- [[Diskrete Strukturen]]
+- [[Formale Sprachen und Automaten]]
+
 
 ## Other Courses I've Taken 
 Here's a list of additional courses that I have completed, which you might find interesting: 
@@ -26,13 +32,7 @@ Here's a list of additional courses that I have completed, which you might find 
 - Rechnerorganisation
 - Systemprogrammierung
 - Softwaretechnik und Programmierparadigmen
-- Algorithmen und Datenstrukturen
-- Diskrete Strukturen
-- Formale Sprachen und Automaten
 - Berechenbarkeit und Komplexität
-- Stochastik für Informatik(er)
-- Integraltransformationen und partielle Differentialgleichungen für Ingenieurwissenschaften
-- Operations Research - Grundlagen (OR-GDL)
 - Statistik I für Wirtschaftswissenschaften
 - Informationssysteme und Datenanalyse
 - Investition und Finanzierung
